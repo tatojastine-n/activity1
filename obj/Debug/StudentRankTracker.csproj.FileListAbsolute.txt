@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\StudentRankTracker\bin\Debug\StudentRankTracker.exe.config
+C:\Users\HP\source\repos\StudentRankTracker\bin\Debug\StudentRankTracker.exe
+C:\Users\HP\source\repos\StudentRankTracker\bin\Debug\StudentRankTracker.pdb
+C:\Users\HP\source\repos\StudentRankTracker\obj\Debug\StudentRankTracker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StudentRankTracker\obj\Debug\StudentRankTracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentRankTracker\obj\Debug\StudentRankTracker.exe
+C:\Users\HP\source\repos\StudentRankTracker\obj\Debug\StudentRankTracker.pdb
